@@ -1,0 +1,4 @@
+fastqs,sample,library_type
+/projects/ucar-lab/Siddhartha/Covid_19/snATACseq/MultiOme/2nd_multiome/2nd_Multiome_Package_ATAC/Josefowicz-JC-9745_2020_12_10,jcov42,Chromatin Accessibility
+/projects/ucar-lab/Siddhartha/Covid_19/snATACseq/MultiOme/2nd_multiome/2nd_Multiome_Package_RNA/2nd_batch_multiome_RNA,jcov42,Gene Expression
+
