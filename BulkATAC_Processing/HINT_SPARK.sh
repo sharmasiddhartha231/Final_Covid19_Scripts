@@ -4,6 +4,8 @@
 
 ## Pseudobulk bam files for each clinical condition. Merge each pseudobulk profile from the Multiomic profiles.
 
+cd /path/to/output
+
 ## Repeat for each clinical condition samples.The Individual samples can be created using 
 samtools merge {Condition}.bam {Individual_1}.bam {Individual_2}.bam ... {Individual_n}.bam
 samtools sort -o Sorted_{Condition}.bam {Condition}.bam
